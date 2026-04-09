@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lore Patchset Automation"
+  short_description: "Automate lore patch intake for kernel trees"
+  default_prompt: "Automate fetching a lore patchset, applying it, adding Link trailers, and prefixing commit subjects by upstream presence."

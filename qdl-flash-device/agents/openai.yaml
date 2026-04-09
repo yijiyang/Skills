@@ -1,0 +1,4 @@
+interface:
+  display_name: "QDL Flash Device"
+  short_description: "Flash a Qualcomm device via EDL mode using TACDev and qdl."
+  default_prompt: "Flash the device using qdl and the meta files under <path>"
